@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://source.unsplash.com/LVAH-bmk8Rg/1600x900);
+}
+
+#left{
+    background-color: rgba(100, 65, 22, 0.75);
+}
+#right{
+    background-color: rgba(46, 46, 46, 0.75);
+}
+
+.all{
+    background-color: rgba(255, 255, 255, 0.90) !important;
+
+}
+
+.nameCheck{
+    display: none;
+    color: red;
+}
+.incorrect{
+    display: none;
+    color: red;
+}
+
+.makeInvisible{
+    display: none;
+}
+
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
