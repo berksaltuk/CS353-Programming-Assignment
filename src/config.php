@@ -1,7 +1,7 @@
 <?php 
 if(!defined('host'))
 {
-    define('host', 'dijkstra.ug.bcc.bilkent.edu.tr');
+    define('host', ' ');
 }
    
 if(!defined('dbname'))
